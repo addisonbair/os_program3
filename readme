@@ -1,0 +1,26 @@
+Creator: Josh Beebe
+CS4323 Program 1
+References:
+http://stackoverflow.com/questions/12005902/c-program-linux-get-command-line-output-to-a-variable-and-filter-data
+http://techbasiclogic.blogspot.com/2010/04/linux-readdir-example-code-to-check.html
+http://www.tutorialspoint.com/c_standard_library/c_function_fgets.htm
+http://www.tutorialspoint.com/c_standard_library/c_function_strtok.htmps
+
+Compilation:
+makefile is include for rapid compilation
+Used gcc as the compiler in linux
+
+Files included:
+4323ps - Executable
+pidinfo.c - Main program/driver
+pswitch.c
+sswitch.c
+Uswitch.c
+Sswitch.c
+vswitch.c
+cswitch.c
+switches.h - Contains function defintions for all switches
+readme
+
+
+
